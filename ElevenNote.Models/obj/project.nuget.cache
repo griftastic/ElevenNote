@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6hfeWc3I6jslwH+bSUNkjLYpkoYIzdeWU88zdiv0Qk2dmjKvtpbzf3ePsJelDVYZJC+C+JerZKVUup04p1hufA==",
+  "dgSpecHash": "b3uVOHaHfzMtu0xUYSJEMDIG3hqutp81u7odPcho0EV41QjE20nsixaw1RafqCsVnH0SeUloYjnzoPtbbTeAkg==",
   "success": true,
-  "projectFilePath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Models/ElevenNote.Models.csproj",
+  "projectFilePath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Models/ElevenNote.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

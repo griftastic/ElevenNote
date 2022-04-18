@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Models/ElevenNote.Models.csproj": {}
+    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Models/ElevenNote.Models.csproj": {}
   },
   "projects": {
-    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Models/ElevenNote.Models.csproj": {
+    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Models/ElevenNote.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Models/ElevenNote.Models.csproj",
+        "projectUniqueName": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Models/ElevenNote.Models.csproj",
         "projectName": "ElevenNote.Models",
-        "projectPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Models/ElevenNote.Models.csproj",
+        "projectPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Models/ElevenNote.Models.csproj",
         "packagesPath": "/Users/griffinbrown/.nuget/packages/",
-        "outputPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Models/obj/",
+        "outputPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/griffinbrown/.nuget/NuGet/NuGet.Config"

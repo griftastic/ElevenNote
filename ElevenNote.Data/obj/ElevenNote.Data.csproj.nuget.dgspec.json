@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Data/ElevenNote.Data.csproj": {}
+    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Data/ElevenNote.Data.csproj": {}
   },
   "projects": {
-    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Data/ElevenNote.Data.csproj": {
+    "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Data/ElevenNote.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Data/ElevenNote.Data.csproj",
+        "projectUniqueName": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Data/ElevenNote.Data.csproj",
         "projectName": "ElevenNote.Data",
-        "projectPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Data/ElevenNote.Data.csproj",
+        "projectPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Data/ElevenNote.Data.csproj",
         "packagesPath": "/Users/griffinbrown/.nuget/packages/",
-        "outputPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNote.WebAPI/ElevenNote.Data/obj/",
+        "outputPath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/griffinbrown/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
