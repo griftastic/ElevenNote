@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "uf8PfRTTm1+vSTMfmidkM2UXkmYTJrpeYKTDAmr2CTacxagpNCHnw8/dern4TGj5sFlhzOvu6BV1I//LvA+IiQ==",
+  "dgSpecHash": "DKnmLVaGTuh+qUIZoAp8+gunP8Q9umN7PrVYwJnOrWefGr9irhQF9ijrsAK6CdXTqPoen9h7QGfaQiOUZikDmQ==",
   "success": true,
   "projectFilePath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Data/ElevenNote.Data.csproj",
   "expectedPackageFiles": [
+    "/Users/griffinbrown/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.entityframeworkcore/6.0.4/microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.4/microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.4/microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",
+    "/Users/griffinbrown/.nuget/packages/microsoft.entityframeworkcore.design/6.0.4/microsoft.entityframeworkcore.design.6.0.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.4/microsoft.entityframeworkcore.relational.6.0.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.entityframeworkcore.sqlserver/6.0.4/microsoft.entityframeworkcore.sqlserver.6.0.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
