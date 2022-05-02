@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kQwbOPr5hrPnE3L/9fFlkBiRIB8fNDFsunPiBz7HSqsM68CvyMiLtsw+p1VyCmol2jcFrLNefbR4v7hqDE+7fw==",
+  "dgSpecHash": "5lQ3FkwYA7eeKNBfKNruu3uCHThbQsX2Uqhk6E6yYXqkjw4q/7fgJq0YAOHRhT2rnijF6m1WBUGvUnjphKagYw==",
   "success": true,
   "projectFilePath": "/Users/griffinbrown/Desktop/ElevenFiftyAcademy140.nosync/ElevenNoteAPI/ElevenNote.Services/ElevenNote.Services.csproj",
   "expectedPackageFiles": [
+    "/Users/griffinbrown/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.4/microsoft.aspnetcore.cryptography.internal.6.0.4.nupkg.sha512",
+    "/Users/griffinbrown/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.4/microsoft.aspnetcore.cryptography.keyderivation.6.0.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -17,6 +19,7 @@
     "/Users/griffinbrown/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/griffinbrown/.nuget/packages/microsoft.extensions.identity.core/6.0.4/microsoft.extensions.identity.core.6.0.4.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/Users/griffinbrown/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
