@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using ElevenNote.Data.Entities;
 using ElevenNote.Models;
 
+
 namespace ElevenNote.Services.Note
 {
     public class NoteService : INoteService
@@ -48,10 +49,28 @@ namespace ElevenNote.Services.Note
                 {
                     Id = entity.Id,
                     Title = entity.Title,
+                    Content = entity.Content,
                     CreatedUtc = entity.CreatedUtc
                 })
                 .ToListAsync();
                 return notes;
         }
-    }
+        public async Task<NoteDetail> GetNoteByIdAsync(int noteId)
+        {
+            // Find the first note that has the given Id and an OwnerId that match the requesting userId
+                var noteEntity = await _dbContext.Notes
+                .FirstOrDefaultAsync(e =>
+                    e.Id == noteId && e.OwnerId == _userId
+                    );
+            // If noteEntity is null then return null, otherwise initialize and return a new NoteDetail
+                return noteEntity is null ? null : new NoteDetail
+                {
+                    Id = noteEntity.Id,
+                    Title = noteEntity.Title,
+                    Content = noteEntity.Content,
+                    CreatedUtc = noteEntity.CreatedUtc,
+                    ModifiedUtc = noteEntity.ModifiedUtc
+                };
+            }
+        }
 }

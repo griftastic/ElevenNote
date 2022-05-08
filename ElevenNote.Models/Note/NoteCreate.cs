@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ElevenNote.Models
+namespace ElevenNote.Models.Note
 {
     public class NoteCreate
     {
