@@ -7,6 +7,7 @@ using ElevenNote.Models.User;
 using ElevenNote.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
+using ElevenNote.Services.Token;
 
 namespace ElevenNote.Services.User
 {
